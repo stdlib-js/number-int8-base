@@ -37,7 +37,8 @@
   },
   "dependencies": {
     "@stdlib/number-int8-base-identity": "^0.1.1",
-    "@stdlib/utils-define-read-only-property": "^0.2.3"
+    "@stdlib/utils-define-read-only-property": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/console-log-each-map": "^0.1.1",
